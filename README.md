@@ -5,7 +5,7 @@
      </div>
 <br/>
 <div align="left"> 
-     <img src="https://komarev.com/ghpvc/?username=ayushkhodankar&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge" alt="pranalikadukar" /> 
+     <img src="https://komarev.com/ghpvc/?username=pranalikadukar&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge" alt="pranalikadukar" /> 
 <a href="https://github.com/pranalikadukar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/pranalikadukar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="right" width="130"/></a>
       </div>
