@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot && Spring MVC**
 
-- 👯 I’m looking to collaborate on **Open Source Projects **
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **kadukarpranali27@gmail.com**
 
