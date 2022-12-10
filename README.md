@@ -11,7 +11,8 @@
       </div>
 <br>
 
-<img align ="right" alt="developer" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"></img>
+
+<img align ="right" alt="developer" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"></img>
 
 - 🌱 I’m currently learning **Java Spring Boot && Spring MVC**
 
