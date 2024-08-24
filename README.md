@@ -20,4 +20,4 @@
 
 - 📫 How to reach me **kadukarpranali27@gmail.com**
 
-- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1nvK-bkCObIiqfhMQMouOc1BKwjHZvlcu/view)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1AaJrC60VG5nKzywoXqG2z3tOVD--nUFc/view?usp=sharing)
